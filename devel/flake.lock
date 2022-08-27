@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "v1_1",
-        "lastModified": 1648163116,
-        "narHash": "sha256-O0L7CBWBtPmjD412UKSI0+OkMVVnmifz6LEl1zk4kk8=",
+        "lastModified": 1661568403,
+        "narHash": "sha256-a2Xd1ay98nvpiHn+b8wSoqsXY99lrItQWNRp+zmrPPc=",
         "owner": "nim-nix-pkgs",
         "repo": "fusion",
-        "rev": "2a0ac6e47a83416257588947051c7e948e9b99b2",
+        "rev": "67f359232b99142169a32bc61fb7d09fc3e2f03c",
         "type": "github"
       },
       "original": {
@@ -50,8 +50,9 @@
     },
     "nixpkgs": {
       "locked": {
-        "narHash": "sha256-sK1Ow//80EKE3bAF5d+2gB8vPXw6m5TBk3wSLHvdVe0=",
-        "path": "/nix/store/0yqgkbpmsk7ck4s34wk505sfdd9vils4-source",
+        "lastModified": 0,
+        "narHash": "sha256-19Ib1b7Ny+yGhnxwnH1KhhB2hvALuNuqevA6XzqkQmo=",
+        "path": "/nix/store/5mdm97ryfgnsh02h7jiragdmcgh6vbvp-source",
         "type": "path"
       },
       "original": {
@@ -64,7 +65,7 @@
         "flakeNimbleLib": "flakeNimbleLib",
         "fusion": "fusion",
         "nixpkgs": "nixpkgs",
-        "src-slim-v0_1_9": "src-slim-v0_1_9"
+        "src-slim-devel": "src-slim-devel"
       }
     },
     "src-fusion-v1_1": {
@@ -84,7 +85,7 @@
         "type": "github"
       }
     },
-    "src-slim-v0_1_9": {
+    "src-slim-devel": {
       "flake": false,
       "locked": {
         "lastModified": 1646459920,
@@ -96,7 +97,7 @@
       },
       "original": {
         "owner": "bung87",
-        "ref": "refs/tags/v0.1.9",
+        "ref": "refs/heads/devel",
         "repo": "slim",
         "type": "github"
       }
